@@ -1,4 +1,4 @@
-Find the Research Paper for EfficienytDet from:
+Find the Research Paper for EfficientDet from:
 ```
 https://arxiv.org/abs/1911.09070
 ```
